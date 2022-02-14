@@ -3,13 +3,13 @@ new TypeIt("#lywry", {
         cursorSpeed: 1000,
         speed: 100
     })
-    .type("LY && WRY")
+    .type("航江和小迎迎")
     .pause(2000)
     .delete(null, {
         delay: 500
     })
-    .type("感谢有你")
-    .pause(3000)
+    .type("第一个情人节")
+    .pause(2000)
     .go();
 
 new TypeIt('#talkToWRY', {

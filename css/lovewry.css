@@ -210,7 +210,7 @@ img {
     padding: 50px;
     color: white;
     text-shadow: 0 0 10px black;
-    margin: 270px 0 0 100px;
+    margin: 270px 200px 0 100px;
 }
 
 .page4-text h1 {
@@ -229,8 +229,13 @@ img {
     position: absolute;
     bottom: 0;
     text-align: center;
+    vertical-align: middle;
     color: white;
     text-shadow: 0 0 5px black;
+}
+
+.footerBox p{
+    margin-bottom: 150px;
 }
 
 /* 两只WRY一样的猪 */
@@ -299,6 +304,7 @@ img {
     }
 
     .page4-img {
+        margin-top: 200px;
         width: 240px;
     }
 
